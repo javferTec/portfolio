@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        In the process of creation, <code>this is a preview</code> ✌️.
+        In creation process, <code>this is a preview</code> ✌️.
         </p>
         <a
           className="App-link"
